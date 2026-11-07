@@ -1,0 +1,14 @@
+data/
+feats/
+feats_test/
+results_test/
+results_check/
+*.zip
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out

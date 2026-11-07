@@ -1,0 +1,9 @@
+torch
+torchaudio
+transformers
+soundfile
+scipy
+pandas
+scikit-learn
+matplotlib
+tqdm
